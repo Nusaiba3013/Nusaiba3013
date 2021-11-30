@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nusaiba3013
 - 👀 I’m interested in ... Human anatomy
 - 🌱 I’m currently learning ... Bioinformatics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...cell biology
 - 📫 How to reach me ...
 
 <!---
